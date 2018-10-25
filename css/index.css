@@ -1,4 +1,9 @@
-body{
+#test{
 	color:blue;
+	background: grey;
+}
+
+.test2{
+	color:red;
 	background: #0f0;
 }
